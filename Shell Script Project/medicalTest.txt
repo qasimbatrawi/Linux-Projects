@@ -1,0 +1,5 @@
+Hemoglobin (Hgb); > 13.8, < 17.2; g/dL 
+Blood Glucose Test (BGT); > 70, < 99; mg/dL 
+LDL Cholesterol Low-Density Lipoprotein (LDL); < 100; mg/dL 
+Systolic Blood Pressure (systole); < 120; mm Hg 
+Diastolic Blood Pressure (diastole); < 80; mm Hg 
